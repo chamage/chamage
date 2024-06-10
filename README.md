@@ -1,7 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Piotr 🐙</h1>
+
+<p> I'm an inspiring game developer</p>
+<p> Currently I'm learning Unity, UE5 and Godot</p>
 
 <!--
-**chamage/chamage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thCthulhu/thCthulhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
