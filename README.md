@@ -4,8 +4,9 @@
 <p> Currently I'm making Java and C# projects</p>
 <p> I'm also doing graphical stuff, although not good</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamage&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="chamage" /></p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamage&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="chamage" /></p>
+<a href="https://github.com/chamage/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chamage" />
+</a>
+<a href="https://github.com/chamage/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamage&layout=compact&langs_count=8&card_width=320" />
+</a>
