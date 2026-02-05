@@ -2,7 +2,7 @@
 
 <p> I'm a student, making random shit when I remember to post it here</p>
 <p> Currently I'm making Java and C# projects</p>
-<p> I'm also doing graphical stuff, although not good</p>
+<p> I'm also doing graphic stuff, although not good</p>
 
 <a href="https://github.com/chamage/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chamage" />
